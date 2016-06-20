@@ -1,0 +1,8 @@
+C:\Users\Olivo\Desktop\BounceSimulator-master\BounceWinForms\bin\Debug\BounceWinForms.exe.config
+C:\Users\Olivo\Desktop\BounceSimulator-master\BounceWinForms\bin\Debug\BounceWinForms.exe
+C:\Users\Olivo\Desktop\BounceSimulator-master\BounceWinForms\bin\Debug\BounceWinForms.pdb
+C:\Users\Olivo\Desktop\BounceSimulator-master\BounceWinForms\obj\Debug\BounceWinForms.csprojResolveAssemblyReference.cache
+C:\Users\Olivo\Desktop\BounceSimulator-master\BounceWinForms\obj\Debug\BounceWinForms.Properties.Resources.resources
+C:\Users\Olivo\Desktop\BounceSimulator-master\BounceWinForms\obj\Debug\BounceWinForms.csproj.GenerateResource.Cache
+C:\Users\Olivo\Desktop\BounceSimulator-master\BounceWinForms\obj\Debug\BounceWinForms.exe
+C:\Users\Olivo\Desktop\BounceSimulator-master\BounceWinForms\obj\Debug\BounceWinForms.pdb

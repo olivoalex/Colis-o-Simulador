@@ -1,0 +1,6 @@
+C:\Users\Olivo\Desktop\BounceSimulator-master\Bounce.Core\bin\Debug\Bounce.Core.XML
+C:\Users\Olivo\Desktop\BounceSimulator-master\Bounce.Core\bin\Debug\Bounce.Core.dll
+C:\Users\Olivo\Desktop\BounceSimulator-master\Bounce.Core\bin\Debug\Bounce.Core.pdb
+C:\Users\Olivo\Desktop\BounceSimulator-master\Bounce.Core\obj\Debug\Bounce.Core.csprojResolveAssemblyReference.cache
+C:\Users\Olivo\Desktop\BounceSimulator-master\Bounce.Core\obj\Debug\Bounce.Core.dll
+C:\Users\Olivo\Desktop\BounceSimulator-master\Bounce.Core\obj\Debug\Bounce.Core.pdb

@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Bounce.Core</name>
+    </assembly>
+    <members>
+        <member name="T:Bounce.Core.Ball">
+            <summary>
+            Class representing the ball object.
+            You must provide your own implementation.
+            </summary>
+        </member>
+        <member name="P:Bounce.Core.Ball.X">
+            <summary>
+            Position on the x axis (horizontal).
+            </summary>
+        </member>
+        <member name="P:Bounce.Core.Ball.Y">
+            <summary>
+            Position on the y axis (vertical).
+            </summary>
+        </member>
+        <member name="P:Bounce.Core.Ball.Radius">
+            <summary>
+            Radius of the ball.
+            </summary>
+        </member>
+        <member name="P:Bounce.Core.Ball.Mass">
+            <summary>
+            Mass of the ball, it is calculated from the radius.
+            </summary>
+        </member>
+        <member name="P:Bounce.Core.Ball.XVelocity">
+            <summary>
+            Velocity in the horizontal direction
+            </summary>
+        </member>
+        <member name="P:Bounce.Core.Ball.YVelocity">
+            <summary>
+            Velocity in the vertical direction.
+            </summary>
+        </member>
+        <member name="M:Bounce.Core.Ball.#ctor(Bounce.Core.PointD,System.Double,System.Double,System.Double)">
+            <summary>
+            Ball constructor.
+            </summary>
+            <param name="position">Initial position of the ball.</param>
+            <param name="radius">Radius of the ball.</param>
+            <param name="xVelocity">Initial velocity on the x axis (horizontal).</param>
+            <param name="yVelocity">Initial velocity on the y axis (vertical).</param>
+        </member>
+        <member name="T:Bounce.Core.DrawingArea">
+            <summary>
+            Abstract class you have to implement.
+            </summary>
+        </member>
+        <member name="F:Bounce.Core.DrawingArea.Objects">
+            <summary>
+            Collection with the game objects.
+            </summary>
+        </member>
+        <member name="P:Bounce.Core.DrawingArea.Height">
+            <summary>
+            Height of the drawing area.
+            </summary>
+        </member>
+        <member name="P:Bounce.Core.DrawingArea.Width">
+            <summary>
+            Width of the drawing area.
+            </summary>
+        </member>
+        <member name="M:Bounce.Core.DrawingArea.UpdatePosition(Bounce.Core.Ball)">
+            <summary>
+            Method that is called when the position of ball changes.
+            </summary>
+            <param name="ball">Ball with updated position.</param>
+        </member>
+        <member name="T:Bounce.Core.PointD">
+            <summary>
+            Represents an ordered pair of double precision floating points x- and y-coordinates that defines a point in a
+            two-dimensional plane.
+            For further reference look into <see cref="P:System.Drawing.Point" />
+            </summary>
+        </member>
+        <member name="T:Bounce.Core.World">
+            <summary>
+            Class representing the world.
+            </summary>
+        </member>
+        <member name="F:Bounce.Core.World.CollectionChangedHandler">
+            <summary>
+            Invoked when an object is added or removed from the collection with game objects.
+            </summary>
+        </member>
+        <member name="M:Bounce.Core.World.#ctor(Bounce.Core.DrawingArea)">
+            <summary>
+            Creates new world.
+            </summary>
+            <param name="drawingArea">Drawing area.</param>
+        </member>
+    </members>
+</doc>

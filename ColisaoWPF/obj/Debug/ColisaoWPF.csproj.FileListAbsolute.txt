@@ -1,0 +1,17 @@
+C:\Users\Olivo\Desktop\BounceSimulator-master\BounceWPF\bin\Debug\ColisaoWPF.exe.config
+C:\Users\Olivo\Desktop\BounceSimulator-master\BounceWPF\bin\Debug\ColisaoWPF.exe
+C:\Users\Olivo\Desktop\BounceSimulator-master\BounceWPF\bin\Debug\ColisaoWPF.pdb
+C:\Users\Olivo\Desktop\BounceSimulator-master\BounceWPF\bin\Debug\Colisao.Core.dll
+C:\Users\Olivo\Desktop\BounceSimulator-master\BounceWPF\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Olivo\Desktop\BounceSimulator-master\BounceWPF\bin\Debug\Colisao.Core.pdb
+C:\Users\Olivo\Desktop\BounceSimulator-master\BounceWPF\bin\Debug\Colisao.Core.xml
+C:\Users\Olivo\Desktop\BounceSimulator-master\BounceWPF\obj\Debug\ColisaoWPF.csprojResolveAssemblyReference.cache
+C:\Users\Olivo\Desktop\BounceSimulator-master\BounceWPF\obj\Debug\src\MainWindow.baml
+C:\Users\Olivo\Desktop\BounceSimulator-master\BounceWPF\obj\Debug\src\MainWindow.g.cs
+C:\Users\Olivo\Desktop\BounceSimulator-master\BounceWPF\obj\Debug\src\App.g.cs
+C:\Users\Olivo\Desktop\BounceSimulator-master\BounceWPF\obj\Debug\ColisaoWPF_MarkupCompile.cache
+C:\Users\Olivo\Desktop\BounceSimulator-master\BounceWPF\obj\Debug\ColisaoWPF.g.resources
+C:\Users\Olivo\Desktop\BounceSimulator-master\BounceWPF\obj\Debug\ColisaoWPF.Properties.Resources.resources
+C:\Users\Olivo\Desktop\BounceSimulator-master\BounceWPF\obj\Debug\ColisaoWPF.csproj.GenerateResource.Cache
+C:\Users\Olivo\Desktop\BounceSimulator-master\BounceWPF\obj\Debug\ColisaoWPF.exe
+C:\Users\Olivo\Desktop\BounceSimulator-master\BounceWPF\obj\Debug\ColisaoWPF.pdb
